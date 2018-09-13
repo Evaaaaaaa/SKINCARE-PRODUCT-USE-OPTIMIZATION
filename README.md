@@ -1,6 +1,6 @@
 # SKINCARE-PRODUCT-USE-OPTIMIZATION
 
-This project is designed to explore to optimize the use of personal skin care product use. Personal skin care products are created to meet the demand for better skin. The market now is full of different products which makes it difficult for consumers to decide their choice. In this project, we will build a model to help consumers plan their usage and use an example to illustrate the process.
+This project is designed to optimize the use of personal skin care product use. Personal skin care products are created to meet the demand for better skin. The market now is full of different products which makes it difficult for consumers to decide their choice. In this project, we will build a model to help consumers plan their usage and use an example to illustrate the process.
 
 The first model minimizes annual cost on personal skin care products. Every skin care product has their effects and price. In our example, we extracted 20 popular products in 2018 and simply classified their effects into 6 categories: moisturizing, cleaning, uv-protection, anti-aging, soothing, acne-healing. We made questionnaires asking interviewees to rate each product for each effect based on their experience. The average rates were then standardized to rates per ounce. These rates can represent how many “function units” each product can provide for each effect. The price comes from online shop websites, majorly Sephora and Amazon. The data can be modified according to the user’s own opinion about each product in each effect. 
 
